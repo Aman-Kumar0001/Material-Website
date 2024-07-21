@@ -1,0 +1,21 @@
+
+  .sec1-btn {
+    padding: 10px 14px;
+    border: none;
+    border-radius: 8px;
+    font-weight: bold;
+  }
+
+  /* sec 1 con 2 */
+  .sec1-con2 {
+    margin: 0 auto;
+    margin-top: -70px;
+  }
+
+  /* sec 2 btn */
+  .sec2-btn {
+    width: 40px;
+    padding: 10px;
+    border: none;
+    border-radius: 50%;
+  }
