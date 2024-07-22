@@ -18,7 +18,7 @@ const Footer = () => {
                                 <li>Pricing</li>
                             </ul>
                         </div>
-                        <div className="col-6 col-lg-3 px-5">
+                        <div className="col col-lg-3 px-5">
                             <b>Get the app</b><br /><br />
                             <button className='sec1-btn mb-2'>
                                 <i class="fa-brands fa-apple"></i>&nbsp;
@@ -32,7 +32,7 @@ const Footer = () => {
                     </div>
                     <br />
                     <hr />
-                    <div className="row row-cols-1 row-cols-lg-2 gap-3 gap-lg-0">
+                    <div className="row row-cols-1 justify-content-between row-cols-lg-2 gap-3 gap-lg-0">
                         <div className="col">
                             © 2024 Made with Material Tailwind by Creative Tim.
                         </div>
